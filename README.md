@@ -4,23 +4,17 @@ asset gem for morris.js
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-    gem 'morrisjs-rails'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install morrisjs-rails
-
+  bundler
+  
 ## Usage
 
 Add the following directive to your Javascript manifest file (application.js):
 
-    //= require moment
+    //= require morris
+
+Add the following directive to your Stylesheet (application.css):
+
+    *= require morris
 
 ## Versioning
 

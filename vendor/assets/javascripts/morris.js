@@ -1,3 +1,5 @@
+//= require prettify
+
 (function() {
   var $, Morris;
 
