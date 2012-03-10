@@ -1,4 +1,4 @@
-# morrisjs-Rails
+# morrisjs-rails
 
 asset gem for morris.js
 
