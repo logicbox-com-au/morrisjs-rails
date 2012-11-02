@@ -1,3 +1,5 @@
+//= require raphael
+
 (function() {
   var $, Morris, minutesSpecHelper, secondsSpecHelper,
     __slice = [].slice,
