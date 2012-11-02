@@ -12,13 +12,9 @@ Add the following directive to your Javascript manifest file (application.js):
 
     //= require morris
 
-Add the following directive to your Stylesheet (application.css):
-
-    *= require morris
-
 ## Versioning
 
-morrisjs-rails 0.2.4 == morris.js 0.2.4
+morrisjs-rails 0.3.3 == morris.js 0.3.3
 
 
 ## Contributing
